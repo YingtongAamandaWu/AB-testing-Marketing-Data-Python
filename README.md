@@ -26,3 +26,5 @@ most ads hour: Hour of day that the person saw the biggest amount of ads
 Required: Python3, Jupyter Notebook
 Required Python packages: 
 numpy, pandas, scipy.stats, statsmodels.stats.api, matplotlib, matplotlib.pyplot, seaborn, math, statsmodels.stats.proportion, IPython.core.interactiveshell (this is optional)
+
+![image](https://github.com/YingtongAamandaWu/AB-testing-Marketing-Data-Python/assets/80353259/5f8adccc-0eae-452d-b6be-183d4d23a305)
