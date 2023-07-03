@@ -1,7 +1,7 @@
 # AB_testing_marketing_effectiveness_Python
 **Quick summary: **This is a Python based analysis on A/B testing for marketing effectiveness
 
-**Data source:** https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
+**Data source:** https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing (access in July 2023; which can be downloaded in the repository --> see  "marketing_AB.csv")
 
 **Background:**
 
@@ -14,7 +14,6 @@ Would the campaign be successful? If the campaign was successful, how much of th
 The idea of the dataset is to analyze the groups, find if the ads were successful, how much the company can make from the ads, and if the difference between the groups is statistically significant.
 
 **Data dictionary:**
-
 Index: Row index 
 user id: User ID (unique) 
 test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement 
@@ -22,3 +21,5 @@ converted: If a person bought the product then True, else is False
 total ads: Amount of ads seen by person 
 most ads day: Day that the person saw the biggest amount of ads 
 most ads hour: Hour of day that the person saw the biggest amount of ads
+
+Installation & Re
