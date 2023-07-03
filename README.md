@@ -1,5 +1,5 @@
 # AB_testing_marketing_effectiveness_Python
-**Quick summary: **This is a Python based analysis on A/B testing for marketing effectiveness
+**Quick summary:** This is a Python based analysis on A/B testing for marketing effectiveness
 
 **Data source:** https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing (access in July 2023; which can be downloaded in the repository --> see  "marketing_AB.csv")
 
@@ -22,4 +22,7 @@ total ads: Amount of ads seen by person
 most ads day: Day that the person saw the biggest amount of ads 
 most ads hour: Hour of day that the person saw the biggest amount of ads
 
-Installation & Re
+**Installation:**
+Required: Python3, Jupyter Notebook
+Required Python packages: 
+numpy, pandas, scipy.stats, statsmodels.stats.api, matplotlib, matplotlib.pyplot, seaborn, math, statsmodels.stats.proportion, IPython.core.interactiveshell (this is optional)
